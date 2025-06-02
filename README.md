@@ -31,9 +31,7 @@
 -Machine Learning models for stock price predictions
 
                     📫 How to Reach Me
-📧 Email: [Your Email]
-💼 LinkedIn: [Your LinkedIn Profile]
-📂 GitHub: [Your GitHub Profile]
+💼 LinkedIn: https://www.linkedin.com/in/sudipt-jethro-4ab707241/
 
 
 ⚡ Fun Fact: The first stock market crash was caused by tulips 🌷 (1637 Tulip Mania)!
