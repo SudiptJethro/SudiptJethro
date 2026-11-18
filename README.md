@@ -1,4 +1,4 @@
-### Hi, I'm Jet (Sudipt Jethro Das) 👋
+### Hi, I'm Yithro👋
 
 I run the finance function at a last-mile delivery company in Muscat, Oman, and I'm moving into quantitative finance. This page collects the research and tools I've built along the way: factor models, portfolio construction, and the data systems behind a real business.
 
