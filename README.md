@@ -32,4 +32,4 @@ First-Class Honours in Accounting & Finance (Cardiff Metropolitan University) ·
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/sudipt-jethro-4ab707241)
+[LinkedIn](https://www.linkedin.com/in/sudiptjethro)
