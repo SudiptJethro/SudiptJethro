@@ -16,7 +16,7 @@ I run the finance function at a last-mile delivery company in Muscat, Oman, and 
 - **[Oman SME intelligence](https://github.com/SudiptJethro/oman-sme-intelligence)** *([live demo](https://sudiptjethro.github.io/oman-sme-intelligence/))*. Sourced and scored private Omani SMEs for a private investment client looking for ICV-aligned targets. These companies publish no accounts, so it estimates turnover from Tender Board procurement records, and it narrowed about 20,000 suppliers to a shortlist of about 130. Built in Python with Cloudflare D1 and Workers AI; ran from April to October 2026.
 - **[VC deal-flow pipeline](https://github.com/SudiptJethro/vc-deal-flow-pipeline)** *([live demo](https://sudiptjethro.github.io/vc-deal-flow-pipeline/dashboard/))*. A free, Tracxn-style tool I built to find early-stage Indian startups and their founders. It pulls from Hacker News, Product Hunt, news sites, accelerator portfolios and public search results, sorts companies by sector and ranks founders into tiers. Built in Python with Cloudflare Workers and D1.
 
-<sub>Both live demos run on synthetic data. The Onyx repo is private; a write-up is available on request.</sub>
+<sub>Both live demos run on synthetic data.</sub>
 
 #### 🚀 Ventures
 
