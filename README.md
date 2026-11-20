@@ -12,11 +12,11 @@ I run the finance function at a last-mile delivery company in Muscat, Oman, and 
 
 #### ⚙️ Systems in production
 
-- **Onyx Rider Ops.** Google Apps Script systems that take delivery riders from sign-up to live (a 10-stage pipeline with an event log, plus OCR checks on Omani ID documents) and reconcile cash-on-delivery data every hour. Operations staff use them daily, and 26 unit tests run in CI.
-- **Oman SME intelligence.** Automated sourcing, scoring and tracking of Omani SME leads for a venture investment manager, built in Python with Cloudflare D1 and Workers AI.
-- **VC deal-flow pipeline.** Discovers Indian startups across LinkedIn, X, Reddit, Inc42, YourStory, Wellfound and VC portfolios.
+- **Onyx Rider Ops** *(private repo)*. Two Google Apps Script systems that operations staff at a last-mile delivery company use every day. One takes riders from sign-up to their first live login, with a 10-stage pipeline, OCR checks on Omani ID cards and vehicle registrations, an event log and a funnel dashboard. The other imports the delivery partner's rider performance reports every hour. 250+ riders tracked and 140+ taken live across five cities, with unit tests running in CI.
+- **[Oman SME intelligence](https://github.com/SudiptJethro/oman-sme-intelligence)** *([live demo](https://sudiptjethro.github.io/oman-sme-intelligence/))*. Sourced and scored private Omani SMEs for a private investment client looking for ICV-aligned targets. These companies publish no accounts, so it estimates turnover from Tender Board procurement records, and it narrowed about 20,000 suppliers to a shortlist of about 130. Built in Python with Cloudflare D1 and Workers AI; ran from April to October 2026.
+- **[VC deal-flow pipeline](https://github.com/SudiptJethro/vc-deal-flow-pipeline)** *([live demo](https://sudiptjethro.github.io/vc-deal-flow-pipeline/dashboard/))*. A free, Tracxn-style tool I built to find early-stage Indian startups and their founders. It pulls from Hacker News, Product Hunt, news sites, accelerator portfolios and public search results, sorts companies by sector and ranks founders into tiers. Built in Python with Cloudflare Workers and D1.
 
-<sub>Most of these repos are private while I clear them for publishing. Write-ups are available on request.</sub>
+<sub>Both live demos run on synthetic data. The Onyx repo is private; a write-up is available on request.</sub>
 
 #### 🚀 Ventures
 
