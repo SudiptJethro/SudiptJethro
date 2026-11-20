@@ -20,7 +20,7 @@ I run the finance function at a last-mile delivery company in Muscat, Oman, and 
 
 #### 🚀 Ventures
 
-- **FortuneFlo** *(private repo)*. An AI-powered personal-finance app for India that I co-founded with my brother. I built the MVP in Flutter. We closed the company in July 2026.
+- **FortuneFlo** *(private repo)*. An AI-native personal finance app for salaried professionals in India, co-founded with my brother, that predicted users' financial behaviour instead of just tracking it. I built the MVP end to end in Flutter, Supabase and Python, connected to India's Account Aggregator framework. We closed it in July 2026 after it didn't find enough demand.
 
 #### 🧰 Toolkit
 
